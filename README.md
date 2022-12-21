@@ -4,6 +4,8 @@ These are St. Joseph's Patrician College Galway's 5th Year ALT4 Projects.
 These projects were intended for microbits (Some projects may have components meant to run on a PC)
 
 
+Also see the [Wiki](https://github.com/John-116/ALT-4-2022/wiki)
+
 ## Projects
 The projects in this repository are as follows
 - [An API based Bus Timetable](https://github.com/John-116/ALT-4-2022/tree/main/Bus%20Timer%20by%20John%20Denny%20and%20Maksym%20Luhin) by Myself and Maxysm Luhin. This uses an API to calculate when the next bus would arrive and send the data via Serial to a microbit.
